@@ -1,14 +1,13 @@
 ## <img src="https://raw.githubusercontent.com/congmucc/congmucc/main/resources/gif/welcomeglitch.gif" width="50px" /> Hello!
 
-<p align="center" style="font-size: 30px">
+<h4 align="center">
   <strong>
     <samp>
       I am <em>Eason</em>. I am a Backend developer... 
       <br/> Rust Golang Typescript Python lover.
     </samp>
   </strong>
-  <br/>
-</p>
+</h4>
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=In+continuous+learning···)
@@ -18,10 +17,8 @@
 <p align="center">
 <a href="https://wa.me/8617630721764" target="blank"><img align="center" src="https://raw.githubusercontent.com/congmucc/congmucc/main/resources/images/whatsapp.svg" alt="" height="30" width="40" /></a>
 <a href="https://t.me/congmucc" target="blank"><img align="center" src="https://raw.githubusercontent.com/congmucc/congmucc/main/resources/images/telegram.svg" alt="" height="30" width="40" /></a>
-<a href="congmucc"><img align="center" src="https://raw.githubusercontent.com/congmucc/congmucc/main/resources/images/wechat.svg" alt="" height="30" width="40" /></a>
-  <samp style="font-weight: bold; color: #3498db; font-family: 'Arial', sans-serif; letter-spacing: 1px;">
-    :congmucc
-  </samp>
+<a href="https://raw.githubusercontent.com/congmucc/congmucc/main/resources/images/wechat_id.png"><img align="center" src="https://raw.githubusercontent.com/congmucc/congmucc/main/resources/images/wechat.svg" alt="" height="30" width="40" /></a>
+  <strong>:congmucc</strong>
 </p>
 
 
