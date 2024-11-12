@@ -11,7 +11,7 @@
 </p>
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=In continuous learning)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=In+continuous+learning)
 
 ### <img src="https://raw.githubusercontent.com/congmucc/congmucc/main/resources/gif/bongocat.gif" width="50px" /> How to reach me: ...
 
