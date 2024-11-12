@@ -17,7 +17,7 @@
 <p align="center">
 <a href="https://wa.me/8617630721764" target="blank"><img align="center" src="https://raw.githubusercontent.com/congmucc/congmucc/main/resources/images/whatsapp.svg" alt="" height="30" width="40" /></a>
 <a href="https://t.me/congmucc" target="blank"><img align="center" src="https://raw.githubusercontent.com/congmucc/congmucc/main/resources/images/telegram.svg" alt="" height="30" width="40" /></a>
-<a href="https://github.com/congmucc/congmucc/main/resources/images/wechat_id.png"><img align="center" src="https://raw.githubusercontent.com/congmucc/congmucc/main/resources/images/wechat.svg" alt="" height="30" width="40" /></a>
+<a href="https://github.com/congmucc/congmucc/blob/main/resources/images/wechat_id.png"><img align="center" src="https://raw.githubusercontent.com/congmucc/congmucc/main/resources/images/wechat.svg" alt="" height="30" width="40" /></a>
   <strong>:congmucc</strong>
 </p>
 
