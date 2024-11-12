@@ -11,6 +11,8 @@
 </p>
 
 
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=In continuous learning)
+
 ### <img src="https://raw.githubusercontent.com/congmucc/congmucc/main/resources/gif/bongocat.gif" width="50px" /> How to reach me: ...
 
 <p align="center">
@@ -20,11 +22,20 @@
 </p>
 
 
-### <img src="https://raw.githubusercontent.com/congmucc/congmucc/main/resources/gif/flying-bird.gif" width="40px" /> Tools and Frameworks
+### <img src="https://raw.githubusercontent.com/congmucc/congmucc/main/resources/gif/flying-bird.gif" width="40px" /> Frameworks
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=congmucc&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white&labelColor=DEA584)
+
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white&labelColor=29BEB0)
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=306998)
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=007ACC)
+
+![Solana](https://img.shields.io/badge/-Solana-3A0CA3?style=flat&logo=solana&logoColor=white&labelColor=9945FF)
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=congmucc.congmucc&left_color=green&right_color=red)
