@@ -48,7 +48,7 @@
 
 
 
-### <img src="https://raw.githubusercontent.com/congmucc/congmucc/main/resources/gif/fire.gif" width="50px" /> My Graph
+### <img src="https://raw.githubusercontent.com/congmucc/congmucc/main/resources/gif/feather.gif" width="50px" /> My Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=congmucc&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
