@@ -27,6 +27,12 @@
 ## <img src="https://raw.githubusercontent.com/congmucc/congmucc/main/resources/gif/flying-bird.gif" width="40px" /> Frameworks
 
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=congmucc&layout=compact" alt="Top Languages" />
+</div>
+<br>
+
 <div align="center">
   <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white&labelColor=DEA584" alt="Rust" />
   <img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white&labelColor=29BEB0" alt="Golang" />
@@ -34,6 +40,7 @@
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=007ACC" alt="TypeScript" />
   <img src="https://img.shields.io/badge/-Solana-3A0CA3?style=flat&logo=solana&logoColor=white&labelColor=9945FF" alt="Solana" />
 </div>
+
 
 
 
@@ -47,7 +54,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=congmucc&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congmucc&layout=compact)
 
 ## Thank you for visiting my profile! 🚀
 
