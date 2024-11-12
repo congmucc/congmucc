@@ -1,3 +1,15 @@
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
+
+<p align="center" >
+  <samp>
+    I am <em>Eason</em>. I am a Backend developer... 
+  <br/> Rust Golang Typescript Python lover.
+    <br/> (<em>ex</em>)Fulltime student.
+  <br/>
+  <br/>
+  <br/>
+</p>
+
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
 
@@ -8,11 +20,12 @@
 </p>
 
 
+### 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=congmucc&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=congmucc.visitor-badge&left_color=green&right_color=red)
 
