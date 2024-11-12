@@ -16,7 +16,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=In+continuous+learning···)
 
-### <img src="https://raw.githubusercontent.com/congmucc/congmucc/main/resources/gif/bongocat.gif" width="50px" /> How to reach me: ...
+## <img src="https://raw.githubusercontent.com/congmucc/congmucc/main/resources/gif/bongocat.gif" width="50px" /> How to reach me: ...
 
 <p align="center">
 <a href="https://wa.me/8617630721764" target="blank"><img align="center" src="https://raw.githubusercontent.com/congmucc/congmucc/main/resources/images/whatsapp.svg" alt="" height="30" width="40" /></a>
@@ -28,13 +28,9 @@
 </p>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/congmucc/congmucc/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/congmucc/congmucc/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/congmucc/congmucc/output/github-contribution-grid-snake.svg">
-</picture>
 
-### <img src="https://raw.githubusercontent.com/congmucc/congmucc/main/resources/gif/flying-bird.gif" width="40px" /> Frameworks
+
+## <img src="https://raw.githubusercontent.com/congmucc/congmucc/main/resources/gif/flying-bird.gif" width="40px" /> Frameworks
 
 
 <div align="center">
@@ -47,10 +43,15 @@
 
 
 
+## <img src="https://raw.githubusercontent.com/congmucc/congmucc/main/resources/gif/feather.gif" width="50px" /> My Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/congmucc/congmucc/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/congmucc/congmucc/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/congmucc/congmucc/output/github-contribution-grid-snake.svg">
+</picture>
 
-### <img src="https://raw.githubusercontent.com/congmucc/congmucc/main/resources/gif/feather.gif" width="50px" /> My Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=congmucc&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-### Thank you for visiting my profile! 🚀
+## Thank you for visiting my profile! 🚀
 
