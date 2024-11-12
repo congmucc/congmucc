@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/congmucc/congmucc/main/resources/gif/welcomeglitch.gif" width="50px" /> Hello!
 
-<p align="center">
+<p align="center" style="font-size: 20px">
   <strong>
     <samp>
       I am <em>Eason</em>. I am a Backend developer... 
