@@ -5,7 +5,6 @@
     <samp>
       I am <em>Eason</em>. I am a Backend developer... 
       <br/> Rust Golang Typescript Python lover.
-      <br/> (<em>ex</em>)Fulltime student.
     </samp>
   </strong>
   <br/>
