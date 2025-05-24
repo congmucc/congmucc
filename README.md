@@ -4,6 +4,7 @@
   <strong>
     <samp>
       I am <em>Eason</em>. I am a Blockchain developer... 
+      <br/> Ethereum Solana Sui Ton lover.
       <br/> Rust Golang Typescript Python lover.
     </samp>
   </strong>
